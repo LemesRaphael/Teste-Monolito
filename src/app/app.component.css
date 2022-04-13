@@ -1,0 +1,24 @@
+.card-principal {
+    margin: 5% 12% 12% 12%;
+
+    background-color: #F1ECEB;
+}
+
+.cards-pokemons{
+    margin-top: 25px;
+}
+
+.cards-pokemons:hover {
+    box-shadow: 8px 8px 16px 8px rgba(0,0,0,0.2);
+}
+
+.pokemon-name {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.pokemon-type {
+    font-weight: bolder;
+    font-size: smaller;
+    font-style: italic;
+}
